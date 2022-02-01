@@ -1,19 +1,14 @@
 # Wire frame for a website
-
 ## AIM:
 To design a wire frame for a website.
-
 ## DESIGN STEPS:
-
 ### Step 1:
-Write your design steps here 
-
+Open Pencil Software.
 ### Step 2:
-Write your design steps here
-
+Design your webpage forusing Windows Desktop sketchy GUI.
 ## OUTPUT:
-include your output screenshots 
-
-
+![inp](11.png)
+![inp](12.png)
+![inp](13.png)
 ## Result:
 Thus a wire frame is designed for a given website.
